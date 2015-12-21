@@ -1,0 +1,22 @@
+{
+  "name": "b4ui",
+  "version": "1.0.0",
+  "description": "creating sample ui fro bootstrap librarary",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajbadukale/b4ui.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Pankaj badukale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajbadukale/b4ui/issues"
+  },
+  "homepage": "https://github.com/pankajbadukale/b4ui#readme"
+}
