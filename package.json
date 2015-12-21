@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/pankajbadukale/b4ui/issues"
   },
-  "homepage": "https://github.com/pankajbadukale/b4ui#readme"
+  "homepage": "https://github.com/pankajbadukale/b4ui#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
+    "jquery": "^2.1.4"
+  }
 }
